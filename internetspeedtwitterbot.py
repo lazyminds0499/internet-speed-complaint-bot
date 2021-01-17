@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 
-TWITTER_USERNAME = "NitinYa64709470"
-TWITTER_PASSWORD = "7988nky@#0"
+TWITTER_USERNAME = "USER NAME"
+TWITTER_PASSWORD = "PASSWORD"
 
 
 class InternetSpeedTwitterBot:
